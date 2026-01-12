@@ -35,6 +35,22 @@ The analysis is organized into logical stages, each answering a specific busines
 
 ---
 
+## 📊 Tableau Dashboard
+
+This project’s SQL analysis is visualized using **Tableau Public**.
+
+🔗 **Dashboard:**  
+https://public.tableau.com/app/profile/vish.g5342/viz/E-commerceRevenueAnalysisusingSQL/Dashboard1
+
+The dashboard highlights:
+- Monthly revenue trends
+- Revenue contribution by product category
+- Customer value segmentation
+
+You can explore filters and interacting visuals by clicking the link above.
+
+--
+
 ## 💡 Key Insights
 - A **small percentage of customers contribute a disproportionate share of total revenue**, indicating strong customer concentration.
 - Certain product categories dominate revenue, while others contribute marginally.
